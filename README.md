@@ -1,2 +1,2 @@
-# trackingwithYOLOv3
-tracking weakly electric fish with YOLOv3
+# trackingwithYOLOv3andHAAR
+tracking weakly electric fish with YOLOv3 and Haar Cascades

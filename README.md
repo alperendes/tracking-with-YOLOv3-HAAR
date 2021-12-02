@@ -1,6 +1,6 @@
 # trackingwithYOLOv3andHAAR
 
-The projects point was to detect the fishs movements w.r.t. sinusoidal waves.
+The goal was to detect the fish' movements as sinusoidal waves.
 
 I used pandas DataFrame in my main detection codes and in some versions of these codes, I saved those DataFrames as csv files.
 
